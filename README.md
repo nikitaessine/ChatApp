@@ -1,7 +1,7 @@
 # ChatApp
 ## Idea
 <p>Sovelluksen idea on luoda uusi sosiaalinen media, jossa käyttäjät voivat luoda eri aiheisiin liittyviä keskustelupalstoja.</p>
-### Keskeiset toiminnot 
+###Keskeiset toiminnot 
 <p>Käyttäjä tyypejä on kaksi:
 <ul>
 <li>Moderaattori</li>
